@@ -48,7 +48,6 @@
 <header>
 < feature1
     <h1> Welcome to KK AWS DEVOPS SRE Portal </h1>
-  
     <h3>Training | Development | Consulting</h3>
 </header>
 
