@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1> Welcome to KK  DEVOPS AWS Portal NEW BATCH ON 25-JAN-2026 7:30 PM to 9 PM  DEMO STARTS </h1>
+    <h1> Welcome to KK DEVOPS AWS Portal </h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
