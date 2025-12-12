@@ -53,7 +53,7 @@ pipeline
 
       curl -u admin:password \
 --upload-file /var/lib/jenkins/workspace/declarative-pipeline/target/maven-web-application.war \
-"http://13.201.82.151:8080/manager/text/deploy?path=/maven-web-application&update=true"
+"http://http://13.204.65.115:8080/manager/text/deploy?path=/maven-web-application&update=true"
           
         """           
            }
