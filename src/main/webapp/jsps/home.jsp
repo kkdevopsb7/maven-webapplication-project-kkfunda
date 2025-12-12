@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK FUNDA DEVOPS AWS Portal NEW BATCH Started on 26 OCT 2025🚀</h1>
+    <h1>🚀 Welcome to KK FUNDA DEVOPS AWS Portal NEW BATCH Started 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
