@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>Welcome to DEVOPS AWS Portal by noor..</h1>
+    <h1>Welcome to DEVOPS AWS Portal by noor!..</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
