@@ -122,7 +122,13 @@
 					<target>${jdk.version}</target>
 				</configuration>
 			</plugin>
-
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-war-plugin</artifactId>
+            <version>3.3.2</version> <!-- Use a stable version -->
+        </plugin>
+    </plugins>
 			<plugin>
 				<groupId>org.eclipse.jetty</groupId>
 				<artifactId>jetty-maven-plugin</artifactId>
