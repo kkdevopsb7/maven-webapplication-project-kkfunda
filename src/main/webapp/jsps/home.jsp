@@ -15,7 +15,7 @@
     }
     header {
         background: linear-gradient(90deg, #007bff, #00c6ff);
-        color: white;
+        color: yellow;
         padding: 20px;
         text-align: center;
     }
@@ -46,8 +46,8 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK FUNDA DEVOPS AWS Portal 🚀</h1>
-    <h3>Training | Development | Consulting</h3>
+    <h1>THEPRINT SUNRISE</h1>
+    <h3>Printing | Quality | Delivery</h3>
 </header>
 
 <div class="container">
@@ -75,11 +75,11 @@
     <!-- Contact Info -->
     <div class="info-card text-center">
         <img src="images/kkfunda.jpg" alt="KK FUNDA Logo" width="120" class="mb-3 rounded-circle shadow">
-        <h4>KK FUNDA</h4>
-        <p><b>Address:</b> Martha Halli, Bangalore</p>
-        <p><b>Phone:</b> +91-9676831734</p>
-        <p><b>Email:</b> <a href="mailto:kkeducationblr@gmail.com">kkeducationblr@gmail.com</a></p>
-        <a href="mailto:kkeducation@gmail.com" class="btn btn-primary mt-2">📧 Mail to KK FUNDA</a>
+        <h4>SUNRISE PRINTERS</h4>
+        <p><b>Address:</b> GANDHINAGAR, VIJAYAWADA</p>
+        <p><b>Phone:</b> +91-9676791252</p>
+        <p><b>Email:</b> <a href="mailto:SUNRISEPRINTERS@gmail.com">sunriseprintersOB@gmail.com</a></p>
+        <a href="mailto:Sunriseprinters@gmail.com" class="btn btn-primary mt-2">📧 Mail to sunriseprinters</a>
     </div>
 
     <!-- Service Links -->
@@ -91,7 +91,7 @@
 </div>
 
 <footer>
-    <p>© 2024 KK FUNDA Training & Development Center</p>
+    <p>© sunrise printers since 2015 </p>
     <p><small>Powered by <a href="https://google.com/">KK FUNDA</a></small></p>
 </footer>
 
