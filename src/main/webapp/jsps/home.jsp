@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 KK FUNDA Devops Institute 🚀</h1>
+    <h1>🚀 KK FUNDA Devops Institute || KK FUNDA Study Consultancy 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
